@@ -22,7 +22,7 @@ Drop me a message in the dadsnetwork facebook group if you need any help.
 
 # Quick Tips
 
-# Rotate Display
+## Rotate Display
 Rotate the display to portrait mode if your mirror isn’t landscape: Either SSH into your pi or use a terminal on the pi
 
 sudo nano /boot/config.txt
@@ -31,9 +31,9 @@ Add the following line to the file:
 
 display_rotate=1
 
-# Wifi
+## Wifi
 If you have wireless you will need to follow this guide, to exit MagicMirror press Ctrl + Q (if it restarts open a terminal prompt and type pm2 stop mm): https://www.raspberrypi.org/documentation/configuration/wireless/desktop.md
 
-# Location
+## Location
 
 Exit MagicMirror by pressing Ctrl + Q (if it restarts open a terminal prompt and type pm2 stop mm). Click on the Raspberry -> Preferences -> Raspberry Pi Configuration. Then click Localisation. Set Timezone. (I will be automating this in Part 2).
