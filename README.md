@@ -2,6 +2,8 @@
 
 Following on from my daughter and I building a couple of magic mirrors, there was a lot of interest in creating a how to. 
 
+You will need a Raspberry Pi (version 2 or better, Pi Zero / w doesn't work *yet* :)), an SD card (of at least 8Gb) and a monitor to go behind the mirror. You will also need a two way mirror. I bought my "mirror glass" from https://www.cutplasticsheeting.co.uk/mirrored-sheeting/two-way-acrylic-mirror
+
 On this site you will find a basic howto as well as a complete RPi image and a couple of scripts to make creating a MM really easy. This guide works on the assumption you have a raspberry pi and it's connected to a monitor and cabled to the network. 
 
 ## Part 1: 
