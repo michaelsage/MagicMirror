@@ -10,7 +10,7 @@ On this site you will find a basic howto as well as a complete RPi image and a c
 Complete pre-configured MagicMirror Image (message comments edited to avoid embarassing "Hey Sexy!" messages). This version pulls the news from the BBC site. This image auto starts Magic Mirror on boot and stops the monitor from sleeping. Just take the img file and write it to an SD card, following these instructions: 
 
 Download Etcher (from https://etcher.io/) and install it; it works on Mac OS, Linux and Windows
-Download mm.img from this page
+Download [mm.img](https://www.michaelsage.co.uk/mm.img)
 
 Connect an SD card reader with the SD card inside.
 Open Etcher and select from your hard drive the mm.img file.
