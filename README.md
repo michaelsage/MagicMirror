@@ -7,11 +7,16 @@ On this site you will find a basic howto as well as a complete RPi image and a c
 ## Part 1: 
 Complete pre-configured MagicMirror Image (message comments edited to avoid embarassing "Hey Sexy!" messages). This version pulls the news from the BBC site. This image auto starts Magic Mirror on boot and stops the monitor from sleeping. Just take the img file and write it to an SD card, following these instructions: 
 
+Download Etcher (from https://etcher.io/) and install it; it works on Mac OS, Linux and Windows
+Download mm.img from this page
 
+Connect an SD card reader with the SD card inside.
+Open Etcher and select from your hard drive the mm.img file.
+Select the SD card you wish to write your image to.
+Review your selections and click 'Flash!' to begin writing data to the SD card.
+Take the SD card and put it in a Raspberry Pi and MM will start and away you go. 
 
 This Image was last updated on 22/09/2018.
-
-Take the SD card and put it in a Raspberry Pi and MM will start and away you go. 
 
 ## Part 2: (Started - mmsetup.sh). 
 Installer prompts you for location and weather ID in order to display correct weather and set time zone.
