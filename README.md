@@ -1,6 +1,6 @@
 # MagicMirror
 
-Following on from my daughter and I building a couple of magic mirrors, there was a lot of interest in creating a how to. 
+Following on from my daughter and I building a couple of magic mirrors, there was a lot of interest in creating a how to. The MagicMirror project homepage is at https://magicmirror.builders/
 
 You will need a Raspberry Pi (version 2 or better, Pi Zero / w doesn't work *yet* :)), an SD card (of at least 8Gb) and a monitor to go behind the mirror. You will also need a two way mirror. I bought my "mirror glass" from https://www.cutplasticsheeting.co.uk/mirrored-sheeting/two-way-acrylic-mirror
 
@@ -25,8 +25,6 @@ Installer prompts you for location (Complete) and weather ID (In Progress) in or
 
 ## Part 3: (Coming soon). 
 DIY Dads building a MagicMirror the hardware.
-
-If you want to extend your mirror further you are best to head to the Magic Mirror offical site at https://magicmirror.builders/
 
 # Quick Tips
 
