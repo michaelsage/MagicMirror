@@ -13,7 +13,7 @@ This Image was last updated on 22/09/2018.
 
 Take the SD card and put it in a Raspberry Pi and MM will start and away you go. 
 
-## Part 2: (Coming soon). 
+## Part 2: (Started - mmsetup.sh). 
 Installer prompts you for location and weather ID in order to display correct weather and set time zone.
 
 ## Part 3: (Coming soon). 
