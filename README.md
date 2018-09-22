@@ -23,5 +23,7 @@ Drop me a message in the dadsnetwork facebook group if you need any help.
 Rotate the display to portrait mode if your mirror isn’t landscape: Either SSH into your pi or use a terminal on the pi
 
 sudo nano /boot/config.txt
+
 Add the following line to the file:
+
 display_rotate=1
