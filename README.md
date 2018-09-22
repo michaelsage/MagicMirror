@@ -11,7 +11,7 @@ Complete pre-configured MagicMirror Image (message comments edited to avoid emba
 
 This Image was last updated on 22/09/2018.
 
-Take the SD card and put it in a Raspberry Pi and MM will start and away you go. Take a look at https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules for more modules to add to your mirror. 
+Take the SD card and put it in a Raspberry Pi and MM will start and away you go. 
 
 ## Part 2: (Coming soon). 
 Installer prompts you for location and weather ID in order to display correct weather and set time zone.
@@ -20,8 +20,6 @@ Installer prompts you for location and weather ID in order to display correct we
 DIY Dads building a MagicMirror the hardware.
 
 If you want to extend your mirror further you are best to head to the Magic Mirror offical site at https://magicmirror.builders/
-
-Drop me a message in the dadsnetwork facebook group if you need any help.
 
 # Quick Tips
 
@@ -40,3 +38,10 @@ If you have wireless you will need to follow this guide, to exit MagicMirror pre
 ## Location
 
 Exit MagicMirror by pressing Ctrl + Q (if it restarts open a terminal prompt and type pm2 stop mm). Click on the Raspberry -> Preferences -> Raspberry Pi Configuration. Then click Localisation. Set Timezone. (I will be automating this in Part 2).
+
+## More Modules
+
+Take a look at https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules for more modules to add to your mirror. 
+
+Drop me a message in the dadsnetwork facebook group if you need any help.
+
