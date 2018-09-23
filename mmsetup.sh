@@ -1,7 +1,7 @@
 # Set the time zone using dpkg-reconfigure
 echo -e "\e[1;33mSetting Time Zone\e[0m"
 sleep 2s
-dpkg-reconfigure tzdata
+sudo dpkg-reconfigure tzdata
 
 # Setting the weather based on data from OpenWeatherMap
 echo -e "\e[1;33mSetting Up Weather\e[0m"
