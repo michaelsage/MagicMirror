@@ -15,6 +15,6 @@ echo Please enter your API Key:
 read myappid
 echo Please enter your location ID:
 read mylocid
-sed "s/appid\: \"/&"${myappid}"/" config.js -i
-sed "s/locationID\: \"/&"${mylocid}"/" config.js -i
+sed "s/appid\: \"/&"${myappid}"/" MagicMirror/config/config.js -i
+sed "s/locationID\: \"/&"${mylocid}"/" MagicMirror/config/config.js -i
 
