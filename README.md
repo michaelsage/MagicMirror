@@ -20,8 +20,8 @@ Take the SD card and put it in a Raspberry Pi and MM will start and away you go.
 
 This Image was last updated on 22/09/2018.
 
-## Part 2: (Started - mmsetup.sh). 
-There is a file on the desktop called mmsetup.sh. Exit MagicMirror by pressing Ctrl+Q, start a terminal and type pm2 stop all. You should now be able to double click the mmsetup.sh which will prompt you for your location and your openweathermap API and Location ID. Once this is complete reboot!
+## Part 2: (mmsetup.sh). 
+There is a file on the desktop called mmsetup.sh. Exit MagicMirror by pressing Ctrl+Q, start a terminal and type pm2 stop all. You should now be able to double click the mmsetup.sh, click "Execute in Terminal" this will then prompt you for your location and your openweathermap API and Location ID. Once this is complete reboot!
 
 ## Part 3: (Coming soon). 
 DIY Dads building a MagicMirror the hardware.
