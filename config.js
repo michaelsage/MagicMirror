@@ -31,4 +31,4 @@ Paste or type the following:
 
 Save the file by pressing ctrl o then exit by pressing ctrl q
 
-You can now run the mmscript.sh file
+You can now run the mmsetup.sh file
