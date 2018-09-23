@@ -21,7 +21,7 @@ Take the SD card and put it in a Raspberry Pi and MM will start and away you go.
 This Image was last updated on 22/09/2018.
 
 ## Part 2: (Started - mmsetup.sh). 
-Installer prompts you for location (Complete) and weather ID (In Progress) in order to display correct weather and set time zone.
+There is a file on the desktop called mmsetup.sh. Exit MagicMirror by pressing Ctrl+Q, start a terminal and type pm2 stop all. You should now be able to double click the mmsetup.sh which will prompt you for your location and your openweathermap API and Location ID. Once this is complete reboot!
 
 ## Part 3: (Coming soon). 
 DIY Dads building a MagicMirror the hardware.
